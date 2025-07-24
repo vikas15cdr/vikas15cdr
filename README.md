@@ -71,7 +71,7 @@
 AI-based question answering system for YouTube videos using LangChain, RAG, FAISS, and ChatGroq.  
 Streamlit-powered interface for interactive semantic responses.
 
-### 🎙️ [Speech Emotion Detection](https://github.com/vikas15cdr/speech-emotion-detector)
+### 🎙️ [Speech Emotion Detection](https://github.com/vikas15cdr/speech_emotion_detection)
 Classifies emotions from audio using MFCC + LSTM.  
 Achieves 97% accuracy on validation set via TensorFlow/Keras.
 
@@ -79,7 +79,7 @@ Achieves 97% accuracy on validation set via TensorFlow/Keras.
 Predicts diabetes risk using supervised ML models.  
 Analyzes data with logistic regression, random forest & performance metrics.
 
-### 🧠 [Customer Segmentation](https://github.com/vikas15cdr/customer-segmentation)
+### 🧠 [Customer Segmentation](https://github.com/vikas15cdr/customer_segmentation)
 Unsupervised learning pipeline to group customers based on behavior.  
 98% clustering precision with live dashboard via Streamlit.
 
