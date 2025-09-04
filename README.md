@@ -66,6 +66,9 @@
 ---
 
 ## 📌 Pinned Projects
+### 🧪 [Network-Security](https://github.com/vikas15cdr/NetworkSecurity)
+production-grade, end-to-end machine learning pipeline that automates the training and evaluation to detect phishing websites, achieving 98.9% accuracy.
+Leveraged a modern MLOps and cloud stack, deploying the solution on AWS and using MLflow with DagsHub to ensure robust experiment tracking and complete reproducibility.
 
 ### 🎥 [YouTube-QnA](https://github.com/vikas15cdr/youtube-qna)
 AI-based question answering system for YouTube videos using LangChain, RAG, FAISS, and ChatGroq.  
@@ -74,10 +77,6 @@ Streamlit-powered interface for interactive semantic responses.
 ### 🎙️ [Speech Emotion Detection](https://github.com/vikas15cdr/speech_emotion_detection)
 Classifies emotions from audio using MFCC + LSTM.  
 Achieves 97% accuracy on validation set via TensorFlow/Keras.
-
-### 🩺 [Diabetes Prediction](https://github.com/vikas15cdr/diabetes-prediction)
-Predicts diabetes risk using supervised ML models.  
-Analyzes data with logistic regression, random forest & performance metrics.
 
 ### 🧠 [Customer Segmentation](https://github.com/vikas15cdr/customer_segmentation)
 Unsupervised learning pipeline to group customers based on behavior.  
