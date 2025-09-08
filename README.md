@@ -6,9 +6,8 @@
 ---
 
 ## 🚀 About Me
-
-🎓 B.Tech CSE student at Bhagwan Parshuram Institute of Technology   
-🔬 Passionate about building intelligent systems with Machine Learning and GenAI  
+   
+🔬 Passionate about building intelligent systems with Machine Learning and AI  
 🧪 Currently working on RAG pipelines, LLM applications, and deep learning projects  
 📚 Curious explorer of agentic AI, LangChain workflows, and real-world data pipelines  
 
