@@ -94,7 +94,7 @@ Unsupervised learning pipeline to group customers based on behavior.
 ## 📫 Connect With Me
 
 - 📧 Email: [vikas1969awz@gmail.com](mailto:vikas1969awz@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/vikas](https://www.linkedin.com/in/vikas-44b045273/)  
+- 💼 LinkedIn: [linkedin.com/in/vikas](https://www.linkedin.com/in/vikas15cdr)  
 
 ---
 
