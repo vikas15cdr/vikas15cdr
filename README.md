@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vikas 👋</h1>
 <p align="center">
-  🧠 Data Scientist in the making • ⚙️ ML & Deep Learning Developer • 🤖 Exploring Generative & Agentic AI
+  🧠 Data Scientist • ⚙️ ML & Deep Learning Developer • 🤖 Generative & Agentic AI
 </p>
 
 ---
@@ -9,7 +9,7 @@
    
 🔬 Passionate about building intelligent systems with Machine Learning and AI  
 🧪 Currently working on RAG pipelines, LLM applications, and deep learning projects  
-📚 Curious explorer of agentic AI, LangChain workflows, and real-world data pipelines  
+📚 Curious explorer of agentic AI with its workflows, and real-world data pipelines  
 
 ---
 
